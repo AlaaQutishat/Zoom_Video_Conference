@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9652401310",
+    "project_id": "zoommettingapp",
+    "storage_bucket": "zoommettingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9652401310:android:5780afd88425f74cd9378f",
+        "android_client_info": {
+          "package_name": "com.alaa.zoommetting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9652401310-t7scb63ksac88tnom3rihsv9l01hiemm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNZqhi6NfjxcMQbu-_GQ34ww1BaIkFjwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9652401310-t7scb63ksac88tnom3rihsv9l01hiemm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
